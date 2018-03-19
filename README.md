@@ -1,2 +1,2 @@
 # alicias-first-module
-Descrition is a lie.
+Description is a lie.
