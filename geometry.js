@@ -1,5 +1,5 @@
-const volume = require('./volumes')
+const { sphereVolume, torusVolume } = require('./volumes')
 
-console.log(volume.torusVolume(8, 7))
+console.log(torusVolume(8, 7))
 
-console.log(volume.sphereVolume(5))
+console.log(sphereVolume(5))
